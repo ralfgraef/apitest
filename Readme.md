@@ -18,7 +18,7 @@ This is a very common beginner example used to demonstrate how Flask routes and 
 
 ## Requirements
 
-Before running the app, make sure Python and Flask are installed.
+Before running the app, make sure Python and Flask are installed. Please use a virtual environment to install your dependences in this environment.
 
 ```bash
 pip install flask
